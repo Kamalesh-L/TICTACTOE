@@ -1,2 +1,2 @@
 # TICTACTOE
-Tictactoe
+Tictactoe using C
